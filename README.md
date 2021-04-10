@@ -1,0 +1,3 @@
+- Hi, I’m @Kaii6969
+- I’m interested in programming languages
+- I’m currently learning python and C#
